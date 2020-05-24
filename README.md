@@ -1,0 +1,2 @@
+# finJasonr
+Jason investigating finance.
