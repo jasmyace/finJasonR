@@ -1,0 +1,22 @@
+Package: finJasonr
+Type: Package
+Title: Financial Investigations by Jason
+Version: 0.1
+Date: 2020-05-24
+Author: Jason Mitchell
+Maintainer: Jason Mitchell
+Description: Jason investigation finance.  
+Depends: R (>= 2.10)
+Imports: dplyr, 
+    edgarWebR, 
+    finreportjason
+License: MIT + file LICENSE
+URL: https://github.com/jasmyace/finJasonr
+BugReports: https://github.com/jasonmyace/finJasonr/issues
+RoxygenNote: 7.1.0
+Suggests: knitr,
+    rmarkdown,
+    testthat
+LazyData: true
+VignetteBuilder: knitr
+Encoding: UTF-8
